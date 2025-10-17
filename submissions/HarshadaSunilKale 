@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main() 
+{
+    printf("\n***************************************\n");
+    printf("        HAPPY DIWALI 2025\n");
+    printf("***************************************\n\n");
+    printf("May your life shine bright like Diwali lights!\n");
+    printf("Wishing you joy, prosperity and happiness.\n");
+    printf("\n***************************************\n");
+    return 0;
+}
